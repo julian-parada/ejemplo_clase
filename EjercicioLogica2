@@ -1,0 +1,21 @@
+public class EjercicioLOgica2 {
+    public static void main(String[] args){
+        int[][] primerArray = new int[][];
+        int primerArray = {
+            {1,2},
+            {3,4}
+        }
+        int[][] segundoArray = new int[][];
+        int segundoArray = {
+            {5,6},
+            {7,8}
+        }
+        for (int i=0; i<primerArray.lengt;i++){
+            for (int j=0; j<segundoArray.lengt;j++){
+                
+            }
+        }
+
+    }
+ 
+}
